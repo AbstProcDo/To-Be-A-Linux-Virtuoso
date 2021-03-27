@@ -1,7 +1,5 @@
 # High-level Actions of Find Command
 
-
-
 We will continue to explore find's advanced query functions, which will be divided into four aspects :
 
 1. Predefined-Actions
@@ -22,8 +20,6 @@ We will continue to explore find's advanced query functions, which will be divid
 | Operator | logic operatons | -and, -or, -not                        |
 |----------+-----------------+----------------------------------------|
 ```
-
-
 
 # 1.Predefined Actions
 
@@ -58,6 +54,7 @@ Other predefined actions include:
 1. `-print` Print the current result to the standard output (Terminal)
 2. `-print0` means that newline characters such as spaces in the file name are  represented by empty values, which are used in conjunction with the -0  of xargs.
 3. -quit Quit the query after matching a result.
+
 # 2. User-defined Actions
 
 The above predefined actions are very convenient, but their disadvantages of poor flexibility are also significant. For example, the `-ls` in the above example has only one display format.
@@ -191,5 +188,4 @@ Based on the seven attributes of the file, we have successively  discussed the e
 |----------+-----------------+----------------------------------------|
 
 ```
-
 The above is all the contents of Find query.
