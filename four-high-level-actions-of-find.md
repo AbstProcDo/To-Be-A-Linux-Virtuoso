@@ -13,7 +13,7 @@ We will continue to explore find's advanced query functions, which will be divid
 |----------+-----------------+----------------------------------------|
 |  Actions | predefinded     | -delete, -ls, -print, -print0          |
 |----------+-----------------+----------------------------------------|
-|  Actions | Costom          | -exec, -ok, xargs                      |
+|  Actions | Custom          | -exec, -ok, xargs                      |
 |----------+-----------------+----------------------------------------|
 |  Actions | Synergy         | work with grep                         |
 |----------+-----------------+----------------------------------------|
